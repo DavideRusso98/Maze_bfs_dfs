@@ -2,6 +2,8 @@
 
 This project focuses on solving randomly generated **mazes** using two fundamental search algorithms: **Breadth-First Search (BFS)** and **Depth-First Search (DFS).**
 
+![Screenshot 2025-06-05 alle 13 15 10](https://github.com/user-attachments/assets/83a27d8d-cc9c-4611-bb24-b584b8cba840)
+
 ## 🔍 Breadth-First Search (BFS)
 
 **BFS** is a graph traversal algorithm that explores vertices in the order of their distance from the starting point, ensuring that all nodes at the current depth level are visited before moving to the next level.
@@ -71,7 +73,6 @@ Manages the graphical user interface components:
 
 ## 🖥️ Graphical User Interface
 
-![Screenshot 2025-06-05 alle 00 32 57](https://github.com/user-attachments/assets/99441b65-e1f2-401d-a73c-5874afaadd13)
-
+![Screenshot 2025-06-05 alle 13 15 10](https://github.com/user-attachments/assets/83a27d8d-cc9c-4611-bb24-b584b8cba840)
 
 
